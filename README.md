@@ -3,6 +3,7 @@
 ## 🚀 Skills:
 - **Programming Languages:** Python, C++, JavaScript
 - **AI/ML Libraries:** TensorFlow, PyTorch, Scikit-Learn
+-  **Frameworks:** Langchain
 - **Web Development:** Flask, Next.js
 - **Databases:** MySQL, MongoDB
 - **Tools:** GitHub, Power BI
