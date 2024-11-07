@@ -13,6 +13,6 @@
 
 ## 📬 Contact:
 - Email: [adityabhogil.11@gmail.com](mailto:adityabhogil.11@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](#)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jyotiraditya-bhogil-853a99246/)
 
 Feel free to check out my repositories and connect!
