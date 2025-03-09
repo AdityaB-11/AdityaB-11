@@ -1,4 +1,4 @@
- # Hi, I'm a third-year Computer Science student with a passion for AI and machine learning.
+ # Hi, I'm a Aditya😎.
 
 ## 🚀 Skills:
 - **Programming Languages:** Python, C++, JavaScript
