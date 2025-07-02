@@ -4,7 +4,7 @@ AI/ML & Quant
 Exploring intelligence through data, math, and code.
 
 ### Stack
-- **Languages:** Python, C++  
+- **Languages:** Python, C++, JS
 - **AI/ML:** PyTorch, scikit-learn, XGBoost  
 - **Quant:** Backtrader, QuantLib, yFinance  
 - **Data:** Pandas, NumPy, SQL
